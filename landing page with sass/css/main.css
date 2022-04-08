@@ -1,0 +1,31 @@
+body {
+  font-family: 'Righteous', cursive;
+  font-size: 18px;
+  background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+}
+
+body header {
+  border-bottom: 0.4px solid #FFF2E7;
+  font-family: 'Sarala', sans-serif;
+  font-size: 1rem;
+  padding-right: 20px;
+}
+
+body main .container .title .title-1 h2 {
+  font-size: 3.556rem;
+}
+
+body main .container .title .title-2 h3 {
+  font-size: 1.333rem;
+  color: #ECD6C4;
+}
+
+body main .container .title .title-button button {
+  background: #ECD6C4;
+  -webkit-box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+          box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  font-size: 1.333rem;
+  font-family: 'Sarala', sans-serif;
+}
+/*# sourceMappingURL=main.css.map */
